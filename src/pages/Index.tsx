@@ -19,7 +19,7 @@ const Index = () => {
             </div>
             <div className="flex items-center space-x-4">
               <Icon name="Phone" className="h-5 w-5 text-blue-600" />
-              <span className="text-lg font-semibold text-gray-900">+7 (999) 123-45-67</span>
+              <span className="text-lg font-semibold text-gray-900">+7 (900) 929-60-19</span>
             </div>
           </div>
         </div>
@@ -326,7 +326,7 @@ const Index = () => {
                 </div>
                 <div>
                   <label className="block text-sm font-medium mb-2">Телефон</label>
-                  <Input placeholder="+7 (999) 123-45-67" />
+                  <Input placeholder="+7 (900) 929-60-19" />
                 </div>
               </div>
               <div>
@@ -361,7 +361,7 @@ const Index = () => {
               <div className="space-y-3">
                 <div className="flex items-center space-x-3">
                   <Icon name="Phone" className="h-5 w-5 text-blue-400" />
-                  <span>+7 (999) 123-45-67</span>
+                  <span>+7 (900) 929-60-19</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Mail" className="h-5 w-5 text-blue-400" />
